@@ -362,3 +362,4 @@ Each student must:
 - Ensure that `notes.txt` and README updates are visible in their branch on GitHub.
 >>>>>>> 2f8f8a1 (Update README with additional notes)
 \n## Additional Notes\nThis is an update.
+\n## Additional Notes\nThis is an update.
