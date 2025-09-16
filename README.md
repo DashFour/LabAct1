@@ -14,7 +14,7 @@ By the end of this laboratory session, students will be able to:
 
 ## Prerequisites
 
-- Git must be installed on the workstation (`git --version` to verify).
+- Git must be installed on the workstation (`git --version` to verify).ecj
 - Students must have an active GitHub account.
 - A text editor or IDE (Visual Studio Code recommended).
 
@@ -177,3 +177,4 @@ Each student must:
 - Submit a screenshot of their terminal showing `git log` from their personal branch.
 - Provide a link to their branch in the repository.
 - Ensure that `notes.txt` and README updates are visible in their branch on GitHub.
+\n## Additional Notes\nThis is an update.
