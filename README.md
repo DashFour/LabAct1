@@ -38,6 +38,7 @@ git config --list --local
 ```
 
 #### (Optional but Recommended) Configure Git Credential Manager
+
 If you want Git to remember your credentials securely, enable the credential manager:
 
 ```bash
@@ -45,13 +46,13 @@ git config credential.helper manager
 ```
 
 - On macOS, you may use the macOS Keychain:
-	```bash
-	git config credential.helper osxkeychain
-	```
+  ```bash
+  git config credential.helper osxkeychain
+  ```
 - On Windows, you may use:
-	```bash
-	git config credential.helper manager-core
-	```
+  ```bash
+  git config credential.helper manager-core
+  ```
 
 This ensures Git will prompt you for credentials only once per repository and store them securely.
 
@@ -154,19 +155,19 @@ Students must:
 
 ## Summary of Commands
 
-| Action             | Command                                                            |
-| ------------------ | ------------------------------------------------------------------ |
-| Configure identity | `git config user.name` / `git config user.email` |
+| Action             | Command                                                                  |
+| ------------------ | ------------------------------------------------------------------------ |
+| Configure identity | `git config user.name` / `git config user.email`                         |
 | Credential manager | `git config credential.helper manager` (or `osxkeychain`/`manager-core`) |
-| Clone repository   | `git clone https://github.com/2026-DCIT26/LabActivity1.git`        |
-| Create branch      | `git checkout -b feature/201811394`                                |
-| Switch branch      | `git checkout <branch>`                                            |
-| Stage file(s)      | `git add <filename>`                                               |
-| Commit changes     | `git commit -m "message"`                                          |
-| Push to branch     | `git push origin feature/201811394`                                |
-| Merge branch       | `git merge feature/201811394`                                      |
-| Check status       | `git status`                                                       |
-| View changes       | `git diff`                                                         |
+| Clone repository   | `git clone https://github.com/2026-DCIT26/LabActivity1.git`              |
+| Create branch      | `git checkout -b feature/201811394`                                      |
+| Switch branch      | `git checkout <branch>`                                                  |
+| Stage file(s)      | `git add <filename>`                                                     |
+| Commit changes     | `git commit -m "message"`                                                |
+| Push to branch     | `git push origin feature/201811394`                                      |
+| Merge branch       | `git merge feature/201811394`                                            |
+| Check status       | `git status`                                                             |
+| View changes       | `git diff`                                                               |
 
 ---
 
@@ -177,12 +178,3 @@ Each student must:
 - Submit a screenshot of their terminal showing `git log` from their personal branch.
 - Provide a link to their branch in the repository.
 - Ensure that `notes.txt` and README updates are visible in their branch on GitHub.
-<<<<<<< HEAD
-<<<<<<< HEAD
-\n## Additional Notes\n this is an update.
-=======
-\n## Additional Notes\nThis is an update.
->>>>>>> 2f8f8a1 (Update README with additional notes)
-=======
-\n## Additional Notes\nThis is an update.
->>>>>>> 3dc9d3e (Update README with additional notes)
