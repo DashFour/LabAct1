@@ -364,4 +364,4 @@ Each student must:
 \n## Additional Notes\nThis is an update.
 \ n # #   A d d i t i o n a l   N o t e s \ n T h i s   i s   a n   u p d a t e .  
  \ n # #   A d d i t i o n a l   N o t e s \ n T h i s   i s   a n   u p d a t e .  
- 
+ \n## Additional Notes\nThis is an update.
