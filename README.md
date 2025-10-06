@@ -178,8 +178,6 @@ Each student must:
 - Submit a screenshot of their terminal showing `git log` from their personal branch.
 - Provide a link to their branch in the repository.
 - Ensure that `notes.txt` and README updates are visible in their branch on GitHub.
-\n## Additional Notes\nThis is an update.
-\n## Additional Notes\nThis is an update.
 =======
 # Laboratory Exercise 1: Introduction to Git and GitHub
 
@@ -360,8 +358,4 @@ Each student must:
 - Submit a screenshot of their terminal showing `git log` from their personal branch.
 - Provide a link to their branch in the repository.
 - Ensure that `notes.txt` and README updates are visible in their branch on GitHub.
->>>>>>> 2f8f8a1 (Update README with additional notes)
-\n## Additional Notes\nThis is an update.
-\n## Additional Notes\nThis is an update.
-\ n # #   A d d i t i o n a l   N o t e s \ n T h i s   i s   a n   u p d a t e .  
  
